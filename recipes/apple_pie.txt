@@ -3,4 +3,7 @@ pie + apples + love
 .DON'T
 .KNOW
 .LOL
+.JUST
+.GOOGLE
+.IT
 simple :)
